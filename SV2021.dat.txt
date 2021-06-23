@@ -1,3 +1,4 @@
-Name					ID					Score
-Thai Duong				20205180				9.50
-Minh Huyen				20201223				10.00
+Name				        ID				 	Score
+Ngoc Dung				20204956				 9.50
+Thai Binh				20204953				 10.00
+Quoc Huy        20204952         9.50
